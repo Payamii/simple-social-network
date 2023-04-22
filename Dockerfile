@@ -11,4 +11,4 @@ COPY . /code/
 
 EXPOSE 8000
 
-CMD ["gunicorn", "A.wsgi", ":8000"]
+CMD python manage.py runserver
