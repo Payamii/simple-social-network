@@ -4,4 +4,4 @@
 
 + use "docker-compose up -d" command to create an image or use venv to run the project.
 
-*   In writing this program, I got help from the codes that I had written along with the training of Mongard website *
+    *In writing this program, I got help from the codes that I had written along with the training of Mongard website*
